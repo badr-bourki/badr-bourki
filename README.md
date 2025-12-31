@@ -1,4 +1,4 @@
-# badrbourki
+# badr-bourki
 <h2 align="center">Hi 👋, I'm Badr Bourki</h2>
 
 <p align="center">
