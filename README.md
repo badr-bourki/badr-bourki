@@ -2,6 +2,22 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20Badr's%20Universe!&fontSize=42&fontAlignY=32&desc=Where%20Code%20Meets%20Creativity%20✨&descAlignY=51&descAlign=50&animation=twinkling" width="100%" />
 </div>
 
+<!-- Intro Video Banner -->
+<div align="center">
+  
+  ### 🎬 Watch My Coding Journey!
+  
+  <!-- You can replace this with your own video link -->
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+    <img src="https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg" width="600" alt="Intro Video" style="border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  </a>
+  
+  <br>
+  
+  *Click above to watch my introduction video! 🎥*
+  
+</div>
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FF6BCB&center=true&vCenter=true&width=600&lines=Hey!+I'm+Badr+Bourki+%F0%9F%91%8B;From+Law+Books+%E2%9A%96%EF%B8%8F+to+Code+%F0%9F%92%BB;Junior+Web+Developer+%F0%9F%9A%80;Based+in+Morocco+%F0%9F%87%B2%F0%9F%87%A6;Let's+Build+Cool+Stuff!+%E2%9C%A8" alt="Typing SVG" />
 </div>
@@ -80,6 +96,57 @@ const badr = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## 🎥 Video Tutorials & Demos
+
+<div align="center">
+
+### 📺 My Latest Project Demos
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h4>🚀 React Portfolio Build</h4>
+      <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID_1">
+        <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID_1/mqdefault.jpg" width="100%" alt="Portfolio Demo" style="border-radius: 10px;">
+      </a>
+      <br>
+      <em>Building a portfolio from scratch!</em>
+    </td>
+    <td align="center" width="50%">
+      <h4>💡 JavaScript Tips & Tricks</h4>
+      <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID_2">
+        <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID_2/mqdefault.jpg" width="100%" alt="JS Tips" style="border-radius: 10px;">
+      </a>
+      <br>
+      <em>Cool JS tricks I learned!</em>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h4>🎨 CSS Animation Magic</h4>
+      <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID_3">
+        <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID_3/mqdefault.jpg" width="100%" alt="CSS Animations" style="border-radius: 10px;">
+      </a>
+      <br>
+      <em>Creating smooth animations!</em>
+    </td>
+    <td align="center" width="50%">
+      <h4>⚡ My Coding Setup Tour</h4>
+      <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID_4">
+        <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID_4/mqdefault.jpg" width="100%" alt="Setup Tour" style="border-radius: 10px;">
+      </a>
+      <br>
+      <em>Check out my workspace!</em>
+    </td>
+  </tr>
+</table>
+
+**🎬 Want to see more?** [Subscribe to my YouTube Channel!](https://www.youtube.com/channel/YOUR_CHANNEL_ID)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 📊 GitHub Stats Extravaganza
 
 <div align="center">
@@ -147,6 +214,55 @@ graph LR
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## 🎥 Code-Along Sessions
+
+<div align="center">
+
+### 💻 Live Coding & Tutorials
+
+<!-- Embedded Video Preview 1 -->
+<details>
+<summary>🎬 <b>Click to watch: Building a Todo App with React</b></summary>
+<br>
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=YOUR_TODO_VIDEO">
+    <img src="https://img.youtube.com/vi/YOUR_TODO_VIDEO/maxresdefault.jpg" width="80%" alt="Todo App Tutorial">
+  </a>
+  <br>
+  <em>Full tutorial on building a React Todo App from scratch!</em>
+</div>
+</details>
+
+<!-- Embedded Video Preview 2 -->
+<details>
+<summary>🎬 <b>Click to watch: Responsive Navigation Bar Tutorial</b></summary>
+<br>
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=YOUR_NAVBAR_VIDEO">
+    <img src="https://img.youtube.com/vi/YOUR_NAVBAR_VIDEO/maxresdefault.jpg" width="80%" alt="Navbar Tutorial">
+  </a>
+  <br>
+  <em>Learn how to create a beautiful responsive navbar!</em>
+</div>
+</details>
+
+<!-- Embedded Video Preview 3 -->
+<details>
+<summary>🎬 <b>Click to watch: Git & GitHub for Beginners</b></summary>
+<br>
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=YOUR_GIT_VIDEO">
+    <img src="https://img.youtube.com/vi/YOUR_GIT_VIDEO/maxresdefault.jpg" width="80%" alt="Git Tutorial">
+  </a>
+  <br>
+  <em>Master Git and GitHub step by step!</em>
+</div>
+</details>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 🎪 Fun Zone
 
 <div align="center">
@@ -159,6 +275,39 @@ graph LR
 
 ### 🎵 Spotify Playing (When I Code)
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=31k56e4ds5bszbmskjo6w5dfu37i&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🎬 Behind the Scenes
+
+<div align="center">
+
+### 📹 Day in the Life of a Junior Developer
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%">
+      <br>
+      <b>9:00 AM</b><br>
+      <em>Morning Coffee ☕</em>
+    </td>
+    <td width="33%" align="center">
+      <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100%">
+      <br>
+      <b>2:00 PM</b><br>
+      <em>Debugging 🐛</em>
+    </td>
+    <td width="33%" align="center">
+      <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="100%">
+      <br>
+      <b>6:00 PM</b><br>
+      <em>Code Works! 🎉</em>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -189,6 +338,49 @@ graph LR
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## 🎥 Quick Tips & Shorts
+
+<div align="center">
+
+### ⚡ 60-Second Coding Tips
+
+<table>
+  <tr>
+    <td width="25%" align="center">
+      <a href="https://www.youtube.com/shorts/YOUR_SHORT_1">
+        <img src="https://img.shields.io/badge/🎬-CSS_Flexbox-FF6BCB?style=for-the-badge">
+      </a>
+      <br>
+      <sub>Master Flexbox in 60s!</sub>
+    </td>
+    <td width="25%" align="center">
+      <a href="https://www.youtube.com/shorts/YOUR_SHORT_2">
+        <img src="https://img.shields.io/badge/🎬-Arrow_Functions-FFD700?style=for-the-badge">
+      </a>
+      <br>
+      <sub>Quick JS tip!</sub>
+    </td>
+    <td width="25%" align="center">
+      <a href="https://www.youtube.com/shorts/YOUR_SHORT_3">
+        <img src="https://img.shields.io/badge/🎬-Git_Commands-00D9FF?style=for-the-badge">
+      </a>
+      <br>
+      <sub>Essential Git commands</sub>
+    </td>
+    <td width="25%" align="center">
+      <a href="https://www.youtube.com/shorts/YOUR_SHORT_4">
+        <img src="https://img.shields.io/badge/🎬-React_Hooks-61DAFB?style=for-the-badge">
+      </a>
+      <br>
+      <sub>useState explained!</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -202,6 +394,9 @@ graph LR
   <a href="https://github.com/badr-bourki">
     <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=181717" />
   </a>
+  <a href="https://www.youtube.com/channel/YOUR_CHANNEL_ID">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000&color=FF0000" />
+  </a>
   
   <br><br>
   
@@ -210,6 +405,9 @@ graph LR
   </a>
   <a href="https://www.facebook.com/profile.php?id=100060181301461">
     <img src="https://img.shields.io/badge/Facebook-Badr%20Bourki-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2&color=1877F2" />
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2&color=1DA1F2" />
   </a>
   
 </div>
@@ -228,27 +426,6 @@ graph LR
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🎊 Some Coding Humor
-
-<div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
-  
-  <br>
-  
-  **Me explaining my code to other developers:**
-  
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="400"/>
-  
-  <br>
-  
-  **Me when my code works on the first try:**
-  
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="400"/>
-  
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 🎯 2025 Goals
 
 - [x] ~~Transition from Law to Tech~~ ✅
@@ -259,12 +436,29 @@ graph LR
 - [ ] 🌟 Get 1000+ GitHub Followers
 - [ ] 📚 Write Technical Blog Posts
 - [ ] 🎨 Create Portfolio Website
+- [ ] 🎥 Start a YouTube Channel
 - [ ] ☕ Drink Less Coffee (Just Kidding!) 😄
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## 🎬 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF6BCB&center=true&vCenter=true&width=800&lines=Thanks+for+visiting!+%E2%9C%8C%EF%B8%8F;Star+my+repos+if+you+like+them!+%E2%AD%90;Let's+collaborate+and+build+together!+%F0%9F%A4%9D;Happy+Coding!+%F0%9F%92%BB%E2%9C%A8;Keep+learning%2C+keep+growing!+%F0%9F%9A%80" alt="Typing SVG" />
+  
+  📺 **Coming Soon!** Subscribe to be notified when I start uploading!
+  
+  <a href="https://www.youtube.com/channel/YOUR_CHANNEL_ID?sub_confirmation=1">
+    <img src="https://img.shields.io/badge/Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe">
+  </a>
+
+</div>
+<!-- YOUTUBE:END -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF6BCB&center=true&vCenter=true&width=800&lines=Thanks+for+visiting!+%E2%9C%8C%EF%B8%8F;Star+my+repos+if+you+like+them!+%E2%AD%90;Let's+collaborate+and+build+together!+%F0%9F%A4%9D;Happy+Coding!+%F0%9F%92%BB%E2%9C%A8;Keep+learning%2C+keep+growing!+%F0%9F%9A%80;Subscribe+to+my+YouTube!+%F0%9F%8E%AC" alt="Typing SVG" />
 </div>
 
 <div align="center">
