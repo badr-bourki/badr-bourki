@@ -1,102 +1,202 @@
 <div align="center">
-  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjlsYzRyd2FvdHcyNjAxYnUxNm5jdXBqbG83cHB6dWp5NXllbXlrMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
+  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjlsYzRyd2FvdHcyNjAxYnUxNm5jdXBqbG83cHB6dWp5NXllbXlrMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Developer Animation" />
 </div>
 
-###
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Badr+Bourki;Junior+Web+Developer;From+Morocco+%F0%9F%87%B2%F0%9F%87%A6" alt="Typing SVG" />
+</h1>
 
-<h1 align="center">Hi 👋, I'm Badr Bourki</h1>
-<h3 align="center">A passionate Junior Web Developer from Morocco 🇲🇦</h3>
-<h4 align="center">Career Transition: Law ⚖️ → Tech 💻</h4>
-
-###
+<h3 align="center">🚀 Passionate About Building Modern Web Applications</h3>
+<p align="center">
+  <strong>Career Transition Journey:</strong> Law ⚖️ → Tech 💻
+</p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Welcome+to+my+GitHub+Profile!+👨‍💻;Junior+Web+Developer+from+Morocco+🇲🇦;Building+Clean+%26+Responsive+Interfaces+✨;Passionate+About+Problem+Solving+🧩;Always+Learning+New+Technologies+🚀">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/badr-bourki-6b70a3223)
+  [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:badrbourki456@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=badr-bourki&label=Profile%20Views&color=6C63FF&style=for-the-badge)
+  
 </div>
 
-###
+---
 
+## 👨‍💻 About Me
+
+```javascript
+const badr = {
+    location: "Casablanca, Morocco 🇲🇦",
+    role: "Junior Web Developer",
+    background: "Law Graduate turned Developer",
+    currentFocus: ["React", "TypeScript", "Node.js", "Tailwind CSS"],
+    interests: ["Problem Solving", "UI/UX Design", "Open Source"],
+    learningGoal: "Building scalable and user-friendly web applications",
+    funFact: "I debug my code with the same precision I once analyzed legal cases! ⚖️💻"
+};
+```
+
+## 🎯 Current Goals
+
+- 🔭 Building full-stack projects to strengthen my portfolio
+- 🌱 Mastering React ecosystem and modern JavaScript frameworks
+- 👯 Looking to collaborate on open-source projects
+- 💡 Contributing to the developer community through knowledge sharing
+- 🎓 Continuously learning and staying updated with industry trends
+
+---
+
+## 🛠️ Tech Stack
+
+### **Frontend Development**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=badr-bourki&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=badr-bourki&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  
 </div>
 
-###
-
+### **Backend & Tools**
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=badr-bourki&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+  
 </div>
 
-###
+---
 
-<h2 align="center">🛠️ Languages and Tools</h2>
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=badr-bourki&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.demolab.com?user=badr-bourki&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
 
-###
-
-<h2 align="center">📚 Currently Learning</h2>
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo"  />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=badr-bourki&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=badr-bourki&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
-###
+---
 
-<h2 align="center">🌐 Connect with me</h2>
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <a href="mailto:badrbourki456@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/badr-bourki-6b70a3223" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/bourki_badr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100060181301461" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
-  <a href="https://github.com/badr-bourki" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo"  />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=badr-bourki&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
-###
+---
 
-<br clear="both">
+## 📌 Featured Projects
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/badr-bourki/badr-bourki/output/snake.svg" alt="Snake animation" />
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=badr-bourki&repo=YOUR-REPO-NAME&theme=tokyonight&hide_border=true)](https://github.com/badr-bourki/YOUR-REPO-NAME)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=badr-bourki&repo=YOUR-REPO-NAME&theme=tokyonight&hide_border=true)](https://github.com/badr-bourki/YOUR-REPO-NAME)
+
 </div>
 
-###
+> 💡 **Note:** Replace `YOUR-REPO-NAME` with your actual repository names to showcase your best projects!
 
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;Open+to+collaboration+opportunities!;Let's+build+something+amazing+together!+🚀">
-</h3>
+---
 
-###
+## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=badr-bourki&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://raw.githubusercontent.com/badr-bourki/badr-bourki/output/snake.svg" alt="Snake Animation" />
+</div>
+
+---
+
+## 💼 Professional Background
+
+**From Law to Code:** My journey from legal studies to web development has equipped me with:
+- 🎯 **Analytical Thinking** - Approaching problems systematically
+- 📝 **Attention to Detail** - Writing clean, maintainable code
+- 🤝 **Communication Skills** - Collaborating effectively in teams
+- ⚡ **Adaptability** - Quickly learning new technologies and frameworks
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/badr-bourki-6b70a3223)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:badrbourki456@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/badr-bourki)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bourki_badr)
+  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100060181301461)
+  
+</div>
+
+---
+
+## 💡 What I'm Working On
+
+```typescript
+interface CurrentProjects {
+  learning: string[];
+  building: string[];
+  exploring: string[];
+}
+
+const myCurrentFocus: CurrentProjects = {
+  learning: [
+    "Advanced React patterns",
+    "TypeScript best practices",
+    "Backend development with Node.js",
+    "Database management"
+  ],
+  building: [
+    "Full-stack e-commerce application",
+    "Personal portfolio website",
+    "Open-source contributions"
+  ],
+  exploring: [
+    "Next.js framework",
+    "GraphQL",
+    "Cloud deployment (Vercel, Netlify)",
+    "Testing frameworks (Jest, React Testing Library)"
+  ]
+};
+```
+
+---
+
+## 📫 Let's Collaborate!
+
+I'm always open to:
+- 🤝 Collaborating on interesting projects
+- 💬 Discussing web development and technology
+- 🌟 Contributing to open-source initiatives
+- 📧 Networking with fellow developers
+
+**Feel free to reach out!** Whether you have a project idea, need help with something, or just want to connect, I'd love to hear from you.
+
+---
+
+<div align="center">
+  
+  ### 🚀 "Code is like humor. When you have to explain it, it's bad." – Cory House
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%E2%9C%8C%EF%B8%8F;Let's+build+something+amazing!+%F0%9F%9A%80;Open+to+collaboration+opportunities!;Happy+Coding!+%F0%9F%92%BB" alt="Typing SVG" />
+  
+  **⭐ Star my repositories if you find them useful!**
+  
+</div>
+
+---
+
+<div align="center">
+  <sub>Built with ❤️ by Badr Bourki</sub>
 </div>
