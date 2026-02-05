@@ -4,99 +4,144 @@
 
 ###
 
-<h1 align="center">Hi 👋, I'm Badr Bourki</h1>
-<h3 align="center">A passionate Junior Web Developer from Morocco 🇲🇦</h3>
-<h4 align="center">Career Transition: Law ⚖️ → Tech 💻</h4>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋+I'm+Badr+Bourki;Junior+Web+Developer+🚀;From+Morocco+🇲🇦">
+</h1>
+
+<h3 align="center">🎯 Passionate Junior Web Developer | Career Transition: Law ⚖️ → Tech 💻</h3>
 
 ###
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Welcome+to+my+GitHub+Profile!+👨‍💻;Junior+Web+Developer+from+Morocco+🇲🇦;Building+Clean+%26+Responsive+Interfaces+✨;Passionate+About+Problem+Solving+🧩;Always+Learning+New+Technologies+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Welcome+to+my+GitHub+Profile!+👨‍💻;Building+Clean+%26+Responsive+Interfaces+✨;Passionate+About+Problem+Solving+🧩;Always+Learning+New+Technologies+🚀;Open+to+Collaboration+Opportunities!">
+</div>
+
+###
+
+## 👨‍💻 About Me
+
+```javascript
+const badr = {
+    location: "Casablanca, Morocco 🇲🇦",
+    currentRole: "Junior Web Developer",
+    background: "Law Graduate transitioning to Tech",
+    code: ["HTML5", "CSS3", "JavaScript", "Git"],
+    currentlyLearning: ["React", "TypeScript", "Node.js", "Tailwind CSS"],
+    goals: "Building responsive and user-friendly web applications",
+    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+};
+```
+
+###
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=badr-bourki&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&bg_color=0d1117" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=badr-bourki&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true&bg_color=0d1117" height="150" alt="languages graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=badr-bourki&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=badr-bourki&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=badr-bourki&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5&background=0d1117" height="150" alt="streak graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=badr-bourki&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app/?username=badr-bourki&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophy" />
 </div>
 
 ###
 
-<h2 align="center">🛠️ Languages and Tools</h2>
+## 🛠️ Tech Stack
 
+### Frontend Development
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" alt="Frontend skills" />
+</div>
+
+### Tools & Technologies
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm,webpack" alt="Tools" />
+</div>
+
+### Currently Learning
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,express,mongodb,nextjs,sass" alt="Learning" />
 </div>
 
 ###
 
-<h2 align="center">📚 Currently Learning</h2>
+## 🎯 Current Focus
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo"  />
-</div>
+- 🔭 Working on building responsive web applications
+- 🌱 Learning **React**, **TypeScript**, and **Node.js**
+- 👯 Looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **HTML, CSS, JavaScript, and Web Development**
+- 📫 How to reach me: **badrbourki456@gmail.com**
+- ⚡ Fun fact: **From courtrooms to code editors - embracing the digital transformation!**
 
 ###
 
-<h2 align="center">🌐 Connect with me</h2>
+## 💼 Professional Journey
+
+```mermaid
+graph LR
+    A[Law Graduate ⚖️] --> B[Career Transition 🔄]
+    B --> C[Learning Web Development 📚]
+    C --> D[Junior Web Developer 💻]
+    D --> E[Building Projects 🚀]
+    E --> F[Open Source Contributor 🌟]
+```
+
+###
+
+## 🌐 Connect With Me
 
 <div align="center">
-  <a href="mailto:badrbourki456@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="mailto:badrbourki456@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/badr-bourki-6b70a3223" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/bourki_badr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100060181301461" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://github.com/badr-bourki" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo"  />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
 ###
 
-<br clear="both">
+## 💡 Random Dev Quote
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/badr-bourki/badr-bourki/output/snake.svg" alt="Snake animation" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
 
 ###
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;Open+to+collaboration+opportunities!;Let's+build+something+amazing+together!+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Feel+free+to+reach+out!+📧;Let's+build+something+amazing!+🚀">
 </h3>
 
 ###
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=badr-bourki&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/badr-bourki?label=Followers&style=flat-square&color=blue" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/badr-bourki?label=Stars&style=flat-square&color=yellow" alt="GitHub Stars" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
 </div>
